@@ -22,7 +22,7 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
-        <!-- Evolution X logo -->
+    <!-- Evolution X logo -->
     <PreferenceScreen
         android:key="evolution_logo"
         android:enabled="false"
